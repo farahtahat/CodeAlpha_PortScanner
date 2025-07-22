@@ -4,6 +4,8 @@
 This is a simple **Port Scanner** developed using **Python** as part of my Cyber Security Internship at **CodeAlpha**.  
 The scanner checks for **open TCP ports** on a target IP address and stores the results in a file.
 
+> 🔧 Note: This project was developed in addition to the required task (Basic Network Sniffer) as an extra effort to improve my understanding of cybersecurity scanning tools.
+
 ## 💡 Features
 - Scan ports in the range **1–1024**
 - Identify open ports on any IP
