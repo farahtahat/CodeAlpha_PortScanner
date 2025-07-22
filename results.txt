@@ -1,0 +1,14 @@
+[OPEN] Port 21
+[OPEN] Port 22
+[OPEN] Port 23
+[OPEN] Port 25
+[OPEN] Port 53
+[OPEN] Port 80
+[OPEN] Port 111
+[OPEN] Port 139
+[OPEN] Port 445
+[OPEN] Port 512
+[OPEN] Port 513
+[OPEN] Port 514
+
+Scan completed in 0.73 seconds.
