@@ -1,4 +1,4 @@
-# 🛡️ Port Scanner - CodeAlpha Internship Task 2
+# 🛡️ Port Scanner - CodeAlpha Internship Task (Extra Project)
 
 ## 📌 Description
 This is a simple **Port Scanner** developed using **Python** as part of my Cyber Security Internship at **CodeAlpha**.  
